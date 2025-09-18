@@ -11,8 +11,8 @@ My goal was to examine the site from a user's perspective and identify any bugs 
 ---
 
 **Links to artifacts:**
-- [[BR-02||Bug-reports]]
-- [[Summary Report]]
+- [Bug-reports](https://github.com/KhachatryanRafayel/qa-portfolio/tree/main/Project_2_automationexercise/Bug-reports)
+- [Summary Report](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/Project_2_automationexercise/Summary%20Report.md)
 
 Also i want to note, that although this website is designed for automation practice, it is also a valuable target for manual exploratory testing to uncover UI/UX and functional bugs.
 
