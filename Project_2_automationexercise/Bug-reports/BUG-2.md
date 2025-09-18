@@ -1,5 +1,5 @@
-**ID:** BUG-2
-**Severity:** Major
+**ID:** BUG-2\
+**Severity:** Major\
 **Priority:** High
 ## Core Information
 *   **Bug Type:** Functional
@@ -19,7 +19,7 @@ Error message “Invalid email format” appears.
 ## Actual Result (AR)
 Subscription accepted, message “You have been successfully subscribed!“ appears.
 ## Attachments
--  N/A
+![bug-photo](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-2.gif)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
