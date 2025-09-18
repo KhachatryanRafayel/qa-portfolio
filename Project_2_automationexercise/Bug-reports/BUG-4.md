@@ -1,5 +1,5 @@
-**ID:** BUG-4
-**Severity:** Trivial/Cosmetic
+**ID:** BUG-4\
+**Severity:** Trivial/Cosmetic\
 **Priority:** Medium
 ## Core Information
 *   **Bug Type:** UI
@@ -18,7 +18,7 @@ All cards have the same size and are aligned at the same level. Each level displ
 ## Actual Result (AR)
 Some cards have different sizes and are misaligned. Each level displays 1–3 products.
 ## Attachments
--  screencapture-automationexercise-2025-09-15-22_15_57.png
+![Bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-4.png)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
