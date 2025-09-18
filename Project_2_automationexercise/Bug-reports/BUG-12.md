@@ -1,5 +1,5 @@
-**ID:** BUG-12
-**Severity:** Major
+**ID:** BUG-12\
+**Severity:** Major\
 **Priority:** High
 ## Core Information
 *   **Bug Type:** Functional
@@ -24,7 +24,7 @@ Account isn’t created, Placeholders "Day", "Month", "Year" must not be accepte
 ## Actual Result (AR)
 The system allows submitting the form with placeholder values "Day", "Month", "Year". No error message is displayed. “Account Created!“ message is dispayed.
 ## Attachments
--  N/A
+![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-11.gif)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
