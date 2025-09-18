@@ -1,5 +1,5 @@
-**ID:** BUG-9
-**Severity:** Minor
+**ID:** BUG-9\
+**Severity:** Minor\
 **Priority:** Low
 ## Core Information
 *   **Bug Type:** Functional
@@ -19,7 +19,7 @@ System should prevent entering non-numeric characters in the quantity field and 
 ## Actual Result (AR)
 User can enter invalid characters (e, E, -, --, ,) in the quantity field and still click the ‘Add to Cart’ button. No warning message appears.
 ## Attachments
--  N/A
+![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-8.gif)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
