@@ -1,5 +1,5 @@
-**ID:** BUG-5
-**Severity:** Minor
+**ID:** BUG-5\
+**Severity:** Minor\
 **Priority:** Low
 ## Core Information
 *   **Bug Type:** UX
@@ -18,7 +18,7 @@ Modal window closes.
 ## Actual Result (AR)
 Modal window doesn’t close.
 ## Attachments
--  N/A
+![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-5.gif)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
