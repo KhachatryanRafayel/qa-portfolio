@@ -1,5 +1,5 @@
-**ID:** BUG-6
-**Severity:** Minor
+**ID:** BUG-6\
+**Severity:** Minor\
 **Priority:** Low
 ## Core Information
 *   **Bug Type:** UX
@@ -19,7 +19,7 @@ Modal window should be closed when navigating back to the Products page.
 ## Actual Result (AR)
 Modal window remains open.
 ## Attachments
--  N/A
+![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-6.gif)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
