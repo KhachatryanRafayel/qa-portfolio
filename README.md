@@ -14,6 +14,7 @@ Here I collected examples of my test documentation, created during practice on d
 | [**ArmTypingTest**](Project_1_ArmTypingTest/)       | Pet project: simple desktop game built with Python (pygame). Full cycle testing performed. | Checklists<br>Test cases<br>Bug reports<br>Summary reports |
 | [**AutomationExercise**](Project_2_automationexercise/) | Exploratory testing of a public training website for QA practice.                          | Bug reports<br>Summary report                              |
 
+            ↑ Click on the project name to navigate to its key artifacts.
 ---
 
 ## 🙋‍♂️ **About me**:
