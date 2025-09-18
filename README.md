@@ -28,4 +28,4 @@ You can also check my [Linkedin profile](https://www.linkedin.com/in/khachatryan
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/LICENSE) for more information.
