@@ -1,5 +1,5 @@
-**ID:** BUG-11
-**Severity:** Minor
+**ID:** BUG-11\
+**Severity:** Minor\
 **Priority:** Low
 ## Core Information
 *   **Bug Type:** Functional
@@ -22,7 +22,7 @@ Form should not accept whitespace-only input in the Name field. An error message
 ## Actual Result (AR)
 Form accepts whitespace-only input in the Name field. A success message (“Thank you for your review.”) is displayed.
 ## Attachments
--  N/A
+![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-10.gif)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
