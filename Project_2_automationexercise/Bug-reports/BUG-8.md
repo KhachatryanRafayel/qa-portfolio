@@ -20,7 +20,6 @@ System should prevent adding zero or negative quantity of items and display a wa
 ## Actual Result (AR)
 User can add to cart non positive items.
 ## Attachments
-![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-8.gif)
 ![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-7_2.png)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
