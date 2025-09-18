@@ -1,5 +1,5 @@
-**ID:** BUG-7
-**Severity:** Critical
+**ID:** BUG-7\
+**Severity:** Critical\
 **Priority:** Highest
 ## Core Information
 *   **Bug Type:** Functional
@@ -20,7 +20,7 @@ System should enforce a maximum quantity limit per order (e.g., stock availabili
 ## Actual Result (AR)
 User can add to cart unlimited quantity of products.
 ## Attachments
--  Screenshot 2025-09-17 140717.png
+![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-7_1.png)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
