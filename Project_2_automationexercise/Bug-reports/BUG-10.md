@@ -1,5 +1,5 @@
-**ID:** BUG-10
-**Severity:** Major
+**ID:** BUG-10\
+**Severity:** Major\
 **Priority:** Medium
 ## Core Information
 *   **Bug Type:** Functional
@@ -18,7 +18,7 @@ User can select a star rating when submitting a review.
 ## Actual Result (AR)
 Rating stars are missing / cannot be selected.
 ## Attachments
--  Screenshot 2025-09-17 182833.png
+-  N/A
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
