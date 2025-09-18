@@ -1,5 +1,5 @@
-**ID:** BUG-3
-**Severity:** Major
+**ID:** BUG-3\
+**Severity:** Major\
 **Priority:** High
 ## Core Information
 *   **Bug Type:** Functional
@@ -21,7 +21,7 @@ Error message “You are already subscribed” appears.
 ## Actual Result (AR)
 Subscription accepted second time with the same email, message “You have been successfully subscribed!“ appears.
 ## Attachments
--  N/A
+![bug-image](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-3.gif)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
