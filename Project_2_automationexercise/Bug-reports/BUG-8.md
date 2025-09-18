@@ -1,5 +1,5 @@
-**ID:** BUG-8
-**Severity:** Critical
+**ID:** BUG-8\
+**Severity:** Critical\
 **Priority:** Highest
 ## Core Information
 *   **Bug Type:** Functional
@@ -20,7 +20,8 @@ System should prevent adding zero or negative quantity of items and display a wa
 ## Actual Result (AR)
 User can add to cart non positive items.
 ## Attachments
--  Screenshot 2025-09-17 175902.png
+![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-8.gif)
+![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-7_2.png)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
