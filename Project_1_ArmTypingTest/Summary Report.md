@@ -1,3 +1,5 @@
+# The Summary Report
+
 **Project:** ArmTypingTest  
 **Tester:** Rafayel Khachatryan  
 **Date:** 03.09.2025
@@ -32,9 +34,9 @@
     - **Functionality:** Hotkey (R) for restarting the game during a session does not work.
     - **Settings:** The advertised settings functionality (difficulty and session duration) is completely missing.
 - **Recommendations / Next Steps:**
-    1. Fix bugs related to held key handling (GAMEPLAY-TC-02, GAMEPLAY-TC-04).
-    2. Implement visual feedback for incorrectly entered words (GAMEPLAY-TC-06).
-    3. Fix input field overflow handling (GAMEPLAY-TC-05).
-    4. Enable the restart hotkey functionality (R) (GAMEPLAY-TC-10).
-    5. Implement or remove the settings menu from requirements (SETTINGS-TC-01, SETTINGS-TC-02).
+    1. Fix bugs related to held key handling (BUG-1, BUG-2).
+    2. Implement visual feedback for incorrectly entered words (BUG-4).
+    3. Fix input field overflow handling (BUG-3).
+    4. Enable the restart hotkey functionality (R) (BUG-5).
+    5. Implement or remove the settings menu from requirements (BUG-6, BUG-7).
 - **Release Recommendation:** Due to the presence of defects directly impacting the user experience (Major) and the absence of advertised functionality, the release of the current version is **not recommended**. It is advised to fix the mentioned major bugs and conduct a new round of testing.
