@@ -22,7 +22,7 @@ Form should not accept whitespace-only input in the Name field. An error message
 ## Actual Result (AR)
 Form accepts whitespace-only input in the Name field. A success message (“Thank you for your review.”) is displayed.
 ## Attachments
-![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-10.gif)
+![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-11.gif)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
