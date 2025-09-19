@@ -24,7 +24,7 @@ Account isn’t created, Placeholders "Day", "Month", "Year" must not be accepte
 ## Actual Result (AR)
 The system allows submitting the form with placeholder values "Day", "Month", "Year". No error message is displayed. “Account Created!“ message is dispayed.
 ## Attachments
-![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-11.gif)
+![bug-screenshot](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/BUG-12.gif)
 ## Responsibility
 -   **Reporter:** Rafayel Khachatryan
 -   **Assigned To:** Unassigned
