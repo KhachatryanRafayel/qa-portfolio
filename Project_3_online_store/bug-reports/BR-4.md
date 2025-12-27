@@ -18,3 +18,7 @@ Steps to reproduce:
 2. Enter too long phone number (>15 digits)
    
 Severity: Minor
+
+Attachments:
+
+![gif](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/online-store/bug-4.gif)
