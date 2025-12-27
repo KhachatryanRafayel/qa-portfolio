@@ -1,6 +1,6 @@
 ID: BR-1  
 Related Test Case: AUTH-02  
-Related Bug Reports: BR-12  
+Related Bug Reports: [BR-12](BR-12.md)  
 Summary:   
 - "Sign in by email" button redirects user to phone number verification page instead of email verification page during sign in
 
@@ -24,7 +24,5 @@ Comments: "Sign in or Sign up" page is on Russian language due to related bug (B
 Severity: Major  
 
 Workaround: Yes  
-
-Attachments: N/A
 
 
