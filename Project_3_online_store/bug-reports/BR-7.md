@@ -23,3 +23,7 @@ Steps to reproduce:
 Severity: Major
 
 Workaround: Yes
+
+Attachments:
+
+![gif](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/online-store/bug-7.gif)
