@@ -1,3 +1,5 @@
+# Checklists ☑️
+
 ## Registration/Login
 Positive scenarios
 - Login with a valid phone number
