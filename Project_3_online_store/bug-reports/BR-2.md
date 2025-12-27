@@ -19,3 +19,6 @@ Steps to reproduce:
 
 Severity: Minor
 
+Attachments:
+
+![gif](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/online-store/bug-2.gif)
