@@ -1,6 +1,6 @@
 ID: BR-8  
 Related Test Case: SEARCH-18  
-Related Bug Reports: BR-9  
+Related Bug Reports: [BR-9](BR-9.md) 
 
 Summary: 
 - Search for a non-existent product returns some results.
