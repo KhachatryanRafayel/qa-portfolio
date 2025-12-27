@@ -11,7 +11,7 @@ Here I collected examples of my test documentation, created during practice on d
 ### Main Project
 | Project name | Description | Key artifacts |
 | :------------------------------------------------------------------ | :-------------------------------------------------- | :--------------------------------------------------------- |
-| [**Ecommerce&nbsp;Online&nbsp;Store**](Project_1_ArmTypingTest/)⭐ |End-to-end functional testing of an e-commerce application, including authentification, search, filters and cart.|Test Plan<br>Checklists<br>Test Cases<br>Bug Reports<br>Test Result Report|
+| [**Ecommerce&nbsp;Online&nbsp;Store**](Project_3_online_store/)⭐ |End-to-end functional testing of an e-commerce application, including authentification, search, filters and cart.|Test Plan<br>Checklists<br>Test Cases<br>Bug Reports<br>Test Result Report|
 
                 ↑ Click on the project name to navigate to its key artifacts.
 ### Other Projects
