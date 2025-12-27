@@ -1,6 +1,6 @@
 ID: BR-5  
 Related Test Case: AUTH-08  
-Related Bug Reports: BR-12  
+Related Bug Reports: [BR-12](BR-12.md)  
 
 Summary: 
 - The system display incorrect validation message when entering too long email address (>255 characters) to the email field
