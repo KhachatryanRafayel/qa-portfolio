@@ -1,6 +1,6 @@
 ID: BR-9  
 Related Test Case: SEARCH-19  
-Related Bug Reports: BR-8  
+Related Bug Reports: [BR-8](BR-8.md) 
 
 Summary: 
 - Searching for special characters returns some results.
