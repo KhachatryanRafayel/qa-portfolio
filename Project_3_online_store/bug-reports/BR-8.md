@@ -20,3 +20,5 @@ Steps to reproduce:
 3. Click the "search" button or press Enter
    
 Severity: Minor
+
+![gif](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/online-store/bug-8.png)
