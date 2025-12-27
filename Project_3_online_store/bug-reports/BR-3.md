@@ -26,3 +26,6 @@ Comments:
 
 Severity: Minor
 
+Attachments:
+
+![gif](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/online-store/bug-3.gif)
