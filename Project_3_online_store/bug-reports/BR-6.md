@@ -20,3 +20,6 @@ Steps to reproduce:
    
 Severity: Medium
 
+Attachments:
+
+![gif](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/online-store/bug-6.gif)
