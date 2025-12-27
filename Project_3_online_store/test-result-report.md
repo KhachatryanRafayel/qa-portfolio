@@ -1,3 +1,5 @@
+# Test Result Report 📄
+
 ### 1. Summary  
 Functional and UI testing of the e-commerce platform was conducted based on predefined checklists and test cases. During the testing cycle, 13 defects were identified, two of which require urgent attention before release. The focus was on core user flows: authentication, search, filtering, cart, favorites, and pickup point selection.
 ### 2. Testing Process Description  
@@ -14,6 +16,8 @@ Defects by Severity:
 | **Minor**  | 6      | 46.1%      |
 | **Total**  | **13** | **100%**   |
 
+![chart](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/online-store/chart1_severity.png)
+
 Defects by Functional Area:
 
 | Area                       | Count  | Percentage |
@@ -25,8 +29,10 @@ Defects by Functional Area:
 | **Navigation / UX**        | 1      | 7.7%       |
 | **Total**                  | **13** | **100%**   |
 
-### 4. Defects List  
-[Здесь будет ссылка на список дефектов]
+![chart](https://github.com/KhachatryanRafayel/qa-portfolio/blob/main/assets/online-store/chart2_func.png)
+
+### 4. Defects
+[Bug Reports](https://github.com/KhachatryanRafayel/qa-portfolio/tree/main/Project_3_online_store/bug-reports)
 ### 5. Conclusion  
 Testing revealed several functional and UI issues across core user flows. Two defects are considered high-priority and must be resolved before release:
 
