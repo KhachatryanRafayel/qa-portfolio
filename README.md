@@ -3,22 +3,29 @@
 Welcome to my QA portfolio! 👋
 Here I collected examples of my test documentation, created during practice on different projects.  
 
-**Goal:** The purpose of these works is not to find every possible bug, but to demonstrate my ability to design, execute and document test activities in a clear and structured way.  
+**Goal:** The purpose of these works is to demonstrate my ability to design, execute and document test activities in a clear and structured way.  
 
 ---
 
 ## 🗂️ Projects:
+### Main Project
+| Project name | Description | Key artifacts |
+| :------------------------------------------------------------------ | :-------------------------------------------------- | :--------------------------------------------------------- |
+| [**Ecommerce&nbsp;Online&nbsp;Store**](Project_1_ArmTypingTest/)⭐ |End-to-end functional testing of an e-commerce application, including authentification, search, filters and cart.|Test Plan<br>Checklists<br>Test Cases<br>Bug Reports<br>Test Result Report|
 
-| Project name                                             | Description                                                                                | Key artifacts                                              |
-| :------------------------------------------------------- | :----------------------------------------------------------------------------------------- | :--------------------------------------------------------- |
-| [**ArmTypingTest**](Project_1_ArmTypingTest/)       | Pet project: simple desktop game built with Python (pygame). Full cycle testing performed. | Checklists<br>Test cases<br>Bug reports<br>Summary reports |
-| [**AutomationExercise**](Project_2_automationexercise/) | Exploratory testing of a public training website for QA practice.                          | Bug reports<br>Summary report                              |
+                ↑ Click on the project name to navigate to its key artifacts.
+### Other Projects
+| Project name | Description | Key artifacts |
+| :------------------------------------------------------------------ | :-------------------------------------------------- | :--------------------------------------------------------- |
+| [**ArmTypingTest**](Project_1_ArmTypingTest/) | Self-developed desktop typing game in Python (Pygame); full functional testing performed. | Checklists<br>Test cases<br>Bug reports<br>Summary reports |
+| [**AutomationExercise**](Project_2_automationexercise/) | Ad-hoc and functional testing of a public QA training website with focus on core user flows. | Bug reports<br>Summary report |
 
-            ↑ Click on the project name to navigate to its key artifacts.
+                ↑ Click on the project name to navigate to its key artifacts.
+               
 ---
 
 ## 🙋‍♂️ **About me**:
-I am an aspiring QA engineer interested in manual testing, writing clear test documentation, and continuously improving my skills.  
+I am QA engineer interested in manual and automation testing, writing clear test documentation, and continuously improving my skills.  
 You can also check my [Linkedin profile](https://www.linkedin.com/in/khachatryanrafayel/) for more info.  
 
 ### 🔗 **Connect with Me:**
