@@ -1,5 +1,6 @@
 ID: BR-4  
 Related Test Case: AUTH-07  
+Related Bug Reports: [BR-12](BR-12.md)  
 
 Summary: 
 - The system doesn't display a validation message when entering too long phone numbers (>15 digits) to the phone number field during sign in
@@ -16,6 +17,8 @@ Actual Result:
 Steps to reproduce:
 1. Navigate to the "Sign in or Sign up" page -> <BASE_URL>/auth
 2. Enter too long phone number (>15 digits)
+
+Comments: "Sign in or Sign up" page is on Russian language due to related bug (BR-12).
    
 Severity: Minor
 
