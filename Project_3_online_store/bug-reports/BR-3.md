@@ -1,6 +1,6 @@
 ID: BR-3  
 Related Test Case: AUTH-06  
-Related Bug Reports: BR-12  
+Related Bug Reports: [BR-12](BR-12.md)  
 
 Summary: 
 - The system display incorrect validation message when entering invalid email format to the email field (e.g. test.com, test@, @test.com, test@test, test@test_test)
