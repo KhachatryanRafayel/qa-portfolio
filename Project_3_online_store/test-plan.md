@@ -1,3 +1,5 @@
+# Test Plan 📃
+
 ### 1. Project scope and main goals
 - This test plan covers the **functional and UI testing** of main features of an e-commerce online store. The testing will focus on the front-end user experience and core user flows to ensure correct and stable functionality.
 ### 2. Requirements to be tested
