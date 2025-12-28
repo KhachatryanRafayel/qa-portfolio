@@ -3,7 +3,7 @@
 Welcome to my QA portfolio! 👋
 Here I collected examples of my test documentation, created during practice on different projects.  
 
-**Goal:** The purpose of these works is to demonstrate my ability to design, execute and document test activities in a clear and structured way.  
+The purpose of these works is to demonstrate my ability to design, execute and document test activities in a clear and structured way.  
 
 ---
 
