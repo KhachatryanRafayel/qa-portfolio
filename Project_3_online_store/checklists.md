@@ -4,6 +4,7 @@
 Positive scenarios
 - Login with a valid phone number
 - Login with a valid email address
+
 Negative scenarios
 -  Empty phone number field
 -  Empty email address field
@@ -31,6 +32,7 @@ Positive scenarios
 		- Apply Color filter — results should contain only products of the chosen color.
 		- Combine several filters (e.g., Price + Color) — results must match both criteria.
 		- Remove filters — full product list should be restored.
+
 Negative scenarios
 - Search
 	- Search for a non-existent product (e.g. “qwerty123”, "bbbaaauuuiii" etc) — system should show “No results found”.
@@ -54,6 +56,7 @@ Positive scenarios
 	- Clicking the heart icon again removes the product from the Favorites list.
 	-  After removing the product, the counter decreases by 1 (or disappears if no products remain).
 	- When reloading the page, previously added products remain in Favorites (data is saved).
+
 Negative scenarios
 - In any product list (e.g "Recommended, or Search result)
 	- Rapid clicking on the eart icon should not cause the counter to increase or decrease incorrectly (no duplicate or negative counts).
@@ -69,6 +72,7 @@ Positive scenarios
 	- Clicking the "Add to Cart" button again removes the product from the Cart list.
 	-  After removing the product, the counter decreases by 1 (or disappears if no products remain).
 	- When reloading the page, previously added products remain in Cart (data is saved).
+
 Negative scenarios
 - In any product list (e.g "Recommended, or Search result)
 	- Rapid clicking on the eart icon should not cause the counter to increase or decrease incorrectly (no duplicate or negative counts).
@@ -82,6 +86,7 @@ Positive scenarios
 - Searching a street name shows available OPPs on that street (if any).
 - If no OPPs are found on that street, the nearest pickup points are suggested.
 - Map markers correspond to real OPPs (clicking a marker shows correct address).
+
 Negative scenarios
 -  Entering a very long string in the search field should be handled safely (trimmed or ignored).
 UI/UX
