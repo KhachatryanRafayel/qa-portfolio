@@ -29,6 +29,7 @@ Considering that the testing team consists of only one person and given the limi
 Entry Criteria:
 - The website is accessible in the browser (Chrome)
 - Test plan and checklists are ready  
+
 Exit Criteria:
 - All planned test cases for main features (Cart, Search, Filters, Favorites, Language, Delivery Options) have been executed
 - All bugs found are documented.
