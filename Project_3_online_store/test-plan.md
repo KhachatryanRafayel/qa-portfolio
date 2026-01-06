@@ -28,12 +28,12 @@ Considering that the testing team consists of only one person and given the limi
 ### 5. Criteria
 Entry Criteria:
 - The website is accessible in the browser (Chrome)
-- Test plan and checklists are ready
+- Test plan and checklists are ready  
 Exit Criteria:
 - All planned test cases for main features (Cart, Search, Filters, Favorites, Language, Delivery Options) have been executed
 - All bugs found are documented.
 - Test documentation including checklists, test cases, bug reports and test summary report is completed.
 ### 6. Schedule
-Day 1–7: Create, review, and adjust checklists and test cases
-Day 7–8: Execute all test cases, document all found bugs
-Day 8-9: Analyze test results and prepare the Test Result Report
+Day 1–7: Create, review, and adjust checklists and test cases  
+Day 7–8: Execute all test cases, document all found bugs  
+Day 8-9: Analyze test results and prepare the Test Result Report  
